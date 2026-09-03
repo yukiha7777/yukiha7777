@@ -221,6 +221,10 @@ goal: "AI가 단순히 대답하는 것을 넘어 실제로 행동하고 함께�
   <img src="https://img.shields.io/badge/GitHub-yukiha7777-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+<a href="https://github.com/haruki7777">
+  <img src="https://img.shields.io/badge/GitHub-haruki7777-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <a href="https://gourl.kr/NATSUMI-website">
   <img src="https://img.shields.io/badge/NATSUMI-WEBSITE-FF6B9A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NATSUMI Website" />
 </a>
